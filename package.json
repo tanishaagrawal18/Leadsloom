@@ -2,7 +2,7 @@
   "name": "real-estate-leads-ui",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://tanishaagrawal18.github.io/LeadsLoom",
+  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
