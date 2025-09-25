@@ -1,7 +1,31 @@
 # Real Estate Leads UI (Checkpoint 2 scaffold)
 
 This is a starter frontend scaffold for the **Data Collection Approach** (Checkpoint 2).
-It includes a small React + Vite app using Tailwind for styles and Framer Motion + GSAP for interactions.
+
+A modern React-based dashboard to manage and visualize real estate leads.
+Built with Vite, Tailwind CSS, Recharts, and Framer Motion for fast performance, responsive UI, and smooth animations.
+
+✨ Features
+
+📊 Interactive graphs & charts for lead analysis
+
+📝 Manual lead form (add new leads easily)
+
+🔍 Filter & search functionality
+
+🎨 Clean, responsive UI with animations
+
+⚡ Fast build setup with Vite
+
+🛠️ Tech Stack
+
+Frontend: React, Vite
+
+UI Styling: Tailwind CSS, Framer Motion
+
+Charts: Recharts
+
+Icons: Lucide React
 
 ## What I built for you (files included)
 - Dashboard (src/pages/Dashboard.jsx)
